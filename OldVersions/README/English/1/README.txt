@@ -1,295 +1,100 @@
 
 ***
 
-# <projectName>
+# Japan
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
-### Top
-
-# `README.md`
-
-***
-
-## Read this article in a different language
-
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
-
-***
-
-# <repoName>
-<repo_description>
-
-***
+<div align="center">
+    <img src="/Flag_of_Japan.svg" width="900" height="600" alt="Japanese flag failed to load" title="State flag of Japan" class="center"/>
+</div>
 
 ## About
 
-See above. <extendedRepoDescription>
+Japan is an island country in Eastern Asia. Its capital is the city of Tokyo.
+
+[`More information on WorldDB`](#Software)
 
 ***
 
-## Wiki
+## Projects
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+### Software
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+#### Seanpm2001 WorldDB
 
-***
+- [:octocat: `Seanpm2001_WorldDB_DB_Earth_Japan`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Japan/)
+- [:octocat: `Seanpm2001_WorldDB_DB_Earth_Empire-of-Japan-_-FormerCountry`](https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Empire-of-Japan-_-FormerCountry/)
 
-## Sponsor info
+#### Anime Studio
 
-![SponsorButton.png](SponsorButton.png)
+- [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/)
+- - [:octocat: `Anime Studio Docs`](https://github.com/seanpm2001/Anime_Studio_Docs/)
+- - [:octocat: `Anime Studio OpenAnime`](https://github.com/seanpm2001/Anime_Studio_OpenAnime/)
+- - [:octocat: `Anime Studio AnimAI`](https://github.com/seanpm2001/Anime_Studio_AnimAI/)
+- - [:octocat: `Anime Studio Manga Studio`](https://github.com/seanpm2001/Anime_Studio_Manga-Studio/)
+- - [:octocat: `Anime Studio Subs and Dubs`](https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs/)
+- - [:octocat: `Anime Studio Video Editor`](https://github.com/seanpm2001/Anime_Studio_Video-Editor/)
+- - [:octocat: `Anime Studio Application Core`](https://github.com/seanpm2001/Anime_Studio_ApplicationCore/)
+- - [:octocat: `Anime Studio Hentai`](https://github.com/seanpm2001/Anime_Studio_Hentai/)
+- - [:octocat: `Anime Studio Avatar Studio`](https://github.com/seanpm2001/Anime_Studio_AvatarStudio/)
+- - [:octocat: `Anime Studio Style Manager`](https://github.com/seanpm2001/Anime_Studio_StyleManager/)
+- - [:octocat: `Anime Studio Library`](https://github.com/seanpm2001/Anime_Studio_Library/)
+- - [:octocat: `Anime Studio Exporter`](https://github.com/seanpm2001/Anime_Studio_Exporter/)
+- - [:octocat: `Anime Studio Image editor`](https://github.com/seanpm2001/Anime_Studio_Image-Editor/)
+- - [:octocat: `Anime Studio Audio editor`](https://github.com/seanpm2001/Anime_Studio_Audio-Editor/)
+- - [:octocat: `Anime Studio SocialShare`](https://github.com/seanpm2001/Anime_Studio_SocialShare/)
+- - [:octocat: `Anime Studio Website`](https://github.com/seanpm2001/Anime_Studio_Website/)
+- - [:octocat: `Anime Studio ChatBot`](https://github.com/seanpm2001/Anime_Studio_ChatBot/)
+- - [:octocat: `Anime Studio SubtitleTool`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/)
+- - [:octocat: `Anime Studio Game Studio`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/)
+- - [:octocat: `Anime Studio Manga File Format`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/)
+- - [:octocat: `Anime Studio Woodblock Printer`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/)
+- - [:octocat: `Anime Studio Dictionary`](https://github.com/seanpm2001/Anime_Studio_Dictionary/)
+- - [:octocat: `Anime Studio Encyclopedia`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/)
+- - [:octocat: `Anime Studio Glossary`](https://github.com/seanpm2001/Anime_Studio_Glossary/)
+- - [:octocat: `Anime Studio Wiki`](https://github.com/seanpm2001/Anime_Studio_Wiki/)
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+#### Emoji
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+- [:octocat: `Seanpm2001 Emoji Style Guide`](https://github.com/seanpm2001/Seanpm2001-Emoji-Style-Guide/)
+- [:octocat: `Emoji Day`](https://github.com/seanpm2001/Emoji-Day/)
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+#### Mari0
 
-***
+- [:octocat: `SeansLifeArchive Images Mari0`](https://github.com/seanpm2001/SeansLifeArchive_Images_Mari0/)
+- [:octocat: `SeansLifeArchive Gaming Mari0 backups`](https://github.com/seanpm2001/SeansLifeArchive_Gaming_Mari0Backups/)
 
-## Version history
+#### NSMB DS
 
-**Version history currently unavailable**
+- [:octocat: `SeansLifeArchive Images NewSuperMarioBrosDS`](https://github.com/seanpm2001/SeansLifeArchive_Images_NewSuperMarioBrosDS/)
 
-**No other versions listed**
+#### Nintendo
 
-***
+- [:octocat: `Nintendo`](https://github.com/seanpm2001/Nintendo/)
+- [:octocat: `SeanWallaWalla Nintendo`](https://github.com/seanpm2001/SeanWallaWalla-Nintendo/)
+- [:octocat: `Seanpm2001 Nintendo`](https://github.com/seanpm2001/Seanpm2001-Nintendo/)
 
-## Software status
+#### Sonic Advance
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+- [:octocat: `SeansLifeArchive Images Sonic Advance 1`](https://github.com/seanpm2001/SeansLifeArchive_Images_SonicAdvance1/)
+- [:octocat: `SeansLifeArchive Images Sonic Advance 2`](https://github.com/seanpm2001/SeansLifeArchive_Images_SonicAdvance2/)
+- [:octocat: `SeansLifeArchive Images Sonic Advance 3`](https://github.com/seanpm2001/SeansLifeArchive_Images_SonicAdvance3/)
 
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
+#### Sonic Dash
 
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+- [:octocat: `SeansLifeArchive Images Sonic Dash`](https://github.com/seanpm2001/SeansLifeArchive_Images_Sonic-Dash/)
+- [:octocat: `SeansLifeArchive Images Sonic Dash Y2023 V1`](https://github.com/seanpm2001/SeansLifeArchive_Images_Sonic-Dash_Y2023_V1/)
+- [:octocat: `SeansLifeArchive Images Sonic Dash Y2023 V2`](https://github.com/seanpm2001/SeansLifeArchive_Images_Sonic-Dash_Y2023_V2/)
 
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+#### AI2001
 
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
+- [:octocat: `AI2001 Category: Linguistics: Japanese`](https://github.com/seanpm2001/AI2001_Category-Linguistics-SC-Japanese/)
 
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+#### Nintendo
 
 ***
 
-## Resources
+# File info
 
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
+**File version:** `1 (2025, Tuesday, April 29th at 10:06 pm PST)`
 
 ***
